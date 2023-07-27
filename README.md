@@ -1,2 +1,1 @@
-# goit-markup-hw-01
-My first homework accepted by validator.
+https://rysz99.github.io/goit-markup-hw-02/
