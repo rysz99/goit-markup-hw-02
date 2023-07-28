@@ -4,6 +4,12 @@ body
     font-family: 'Roboto', sans-serif;
 }
 
+.nodecoration
+{
+text-decoration: none;
+color: #000000;
+}
+
 .logo
 {
     font-family: 'Raleway', sans-serif; 
