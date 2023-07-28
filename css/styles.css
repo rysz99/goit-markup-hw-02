@@ -1,0 +1,82 @@
+body
+{
+    line-height: 24px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo
+{
+    font-family: 'Raleway', sans-serif; 
+    font-weight: 800;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.navfilter
+{
+   
+    font-weight: 500;
+}
+
+.description
+{
+    font-weight: 400;
+}
+
+.description.paragraph
+{
+    color: #fff;
+}
+
+.description.contact:hover,
+.description.contact:focus
+{
+    color: #00ff00;
+}
+
+.white.h
+{
+    font-weight: 700;
+    color: #fff;
+    font-size: 56px;
+    line-height: 60px;
+}
+
+.black.h
+{
+font-size: 36px;
+line-height: 40px;
+}
+
+.hero
+{
+    background-color: #2E2F42;
+}
+
+h3
+{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.button1
+{
+    text-align: center;
+    color: #4D5AE5;
+    background-color: #E7E9FC;
+}
+
+.button
+{
+    background-color: #4D5AE5;
+    color: #fff;
+    font-weight: 500px;
+    font-size: 16px;
+}
+
+.button1:hover
+{
+    background-color: #404BBF;
+    color: #fff;
+}
