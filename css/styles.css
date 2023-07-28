@@ -74,15 +74,22 @@ h3
 }
 
 .button
-{
-    background-color: #4D5AE5;
+{ 
     color: #fff;
+    background-color: #4D5AE5;
     font-weight: 500px;
     font-size: 16px;
+}
+
+.button:hover
+{
+    cursor: pointer;
 }
 
 .button1:hover
 {
     background-color: #404BBF;
     color: #fff;
+    cursor: pointer;
 }
+
