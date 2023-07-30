@@ -153,7 +153,7 @@ body
 
 .adress-link2
 {
-    color: var(--click-and-focus);
+    color: var(--body-color);
 }
 
 .adress-link2:hover,
