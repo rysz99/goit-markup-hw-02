@@ -129,6 +129,17 @@ body
     color: var(--logo-and-link-color);
 }
 
+.bold-second-header
+{
+    font-size: 20px;
+    line-height: 1.2;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--logo-and-link-color);
+    font-weight: 500;
+}
+
 .another-section
 {
     background-color: #f4f4fd;
